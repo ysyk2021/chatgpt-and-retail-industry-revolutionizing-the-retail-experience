@@ -1,8 +1,3 @@
-Types of Retail Businesses
-================================================================
-
-Introduction
-------------
 
 The retail industry is a diverse sector that encompasses a wide range of businesses. In this chapter, we will discuss the various types of retail businesses and their characteristics.
 

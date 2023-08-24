@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT, or Generative Pre-trained Transformer 3, is an artificial intelligence (AI) language model developed by OpenAI. It is a machine learning model that uses deep neural networks to understand natural language and produce human-like responses.
 

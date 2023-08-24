@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool that can help retailers revolutionize the retail experience by providing personalized recommendations, customer service and support, assisting with purchases, and streamlining operations. In this chapter, we will explore the features and capabilities of ChatGPT in more detail.
 

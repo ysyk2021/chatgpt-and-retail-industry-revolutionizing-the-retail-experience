@@ -1,8 +1,3 @@
-Chapter 1: Basics of Retail Industry
-====================================
-
-Introduction
-------------
 
 The retail industry is an essential part of the economy, involving the sale of goods and services to customers. In this chapter, we will discuss the basics of the retail industry, including its definition, types of retail businesses, and the importance of customer experience in retail.
 
