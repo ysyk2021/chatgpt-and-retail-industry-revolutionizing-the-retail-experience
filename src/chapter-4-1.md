@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and its application in the retail industry, specifically through the use of chatbots. We will explore the fundamentals of AI, the role of chatbots in customer interactions, and the potential benefits they bring to the retail experience.
 

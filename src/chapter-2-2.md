@@ -1,5 +1,4 @@
-Chapter 3: Types of Retail Businesses
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of retail businesses that exist within the retail industry. From traditional brick-and-mortar stores to online marketplaces, understanding the various retail formats is essential for comprehending the diverse landscape in which AI and chatbots can revolutionize the retail experience.
 

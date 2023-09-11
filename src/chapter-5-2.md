@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities that make ChatGPT a powerful tool for revolutionizing the retail experience. Developed using advanced machine learning techniques, ChatGPT possesses several key attributes that contribute to its effectiveness in enhancing customer interactions, driving personalization, and streamlining retail operations.
 

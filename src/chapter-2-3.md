@@ -1,5 +1,4 @@
-Chapter 2: Importance of Customer Experience in Retail
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of customer experience in the retail industry. We will delve into why delivering exceptional customer experiences is crucial for retailers and how it can impact their success and long-term sustainability.
 

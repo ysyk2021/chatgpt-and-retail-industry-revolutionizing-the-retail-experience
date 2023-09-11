@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting the Retail Industry
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that have a significant impact on the retail industry. These factors shape the competitive landscape, consumer behavior, and overall retail experience. Understanding and adapting to these factors is crucial for retailers to stay relevant and thrive in an ever-evolving market.
 

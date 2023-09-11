@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT in the Retail Industry
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps involved in implementing ChatGPT in the retail industry. These steps provide a roadmap for retailers looking to leverage AI-powered chatbots and revolutionize their customer interactions.
 

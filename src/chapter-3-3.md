@@ -1,5 +1,4 @@
-Chapter 5: Impact of These Challenges on Customer Experience
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the challenges discussed earlier and their impact on customer experience in the retail industry. While AI-powered chatbots like ChatGPT have the potential to enhance customer interactions, streamline processes, and provide personalized assistance, it is essential to address the challenges to ensure a positive and seamless customer experience.
 

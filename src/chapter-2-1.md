@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Retail Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the retail industry, highlighting its key characteristics, players, and functions. Understanding the scope and dynamics of the retail industry is essential for grasping its potential for transformation through AI and chatbots.
 

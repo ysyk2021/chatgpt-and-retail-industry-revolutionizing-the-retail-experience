@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Retailers
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges faced by retailers when implementing AI-powered chatbots like ChatGPT in their operations. While these chatbots have the potential to revolutionize the retail experience, it is important to address these challenges effectively to maximize the benefits and overcome potential obstacles.
 

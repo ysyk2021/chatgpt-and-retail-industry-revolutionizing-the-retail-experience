@@ -1,5 +1,4 @@
-Chapter 7: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we reflect on the transformative potential of ChatGPT in revolutionizing the retail industry and explore the future outlook for AI-powered chatbots. Through its advanced capabilities, ChatGPT has the power to reshape the retail experience, enhance customer engagement, and drive operational efficiencies.
 

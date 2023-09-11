@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce ChatGPT and provide an overview of its capabilities, purpose, and significance in revolutionizing the retail industry. ChatGPT stands at the forefront of artificial intelligence (AI) innovation, offering a powerful tool to enhance customer interactions, personalize shopping experiences, and streamline retail operations.
 

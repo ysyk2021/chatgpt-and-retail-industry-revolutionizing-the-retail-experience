@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in Retail and ChatGPT
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore emerging trends in the retail industry and the challenges that arise in leveraging ChatGPT to revolutionize the retail experience. As technology continues to evolve, new opportunities and complexities emerge, shaping the way retailers use AI-powered chatbots like ChatGPT.
 
